@@ -2,7 +2,7 @@
 
 A web app that identifies named entities in any text using the `dslim/bert-base-NER` model from Hugging Face Transformers, built with the Hugging Face `pipeline()` API and deployed as an interactive Gradio interface on HF Spaces.
 
-🔗 **Live Demo:** [HuggingFace Spaces](https://huggingface.co/spaces/YOUR_USERNAME/ner-explorer)
+🔗 **Live Demo:** [HuggingFace Spaces](https://huggingface.co/spaces/OmsinghRotele/ner-explorer)
 
 ---
 
